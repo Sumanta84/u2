@@ -18,3 +18,4 @@ body {
   background-position: bottom;
   z-index: 1000;
 }
+<div class="bottomAnim"></div>
