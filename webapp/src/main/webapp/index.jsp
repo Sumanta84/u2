@@ -9,6 +9,6 @@
   </style>
 </head>
 <body>
-  <h1>#2851A6 url("https://i.sstatic.net/spmUM.gif") left repeat-x</h1>
+  <h1>got it- automation done with tomcat server</h1>
 </body>
 </html>
