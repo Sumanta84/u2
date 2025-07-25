@@ -4,7 +4,7 @@
   <title>Sample Test Page</title>
   <style>
     body {
-      background-color:yellow;
+      background:#2851A6 url("https://i.sstatic.net/spmUM.gif") left repeat-x;
     }
   </style>
 </head>
