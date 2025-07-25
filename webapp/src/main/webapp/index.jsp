@@ -1,21 +1,20 @@
-html {
-  height: 100%;
-}
+<!DOCTYPE html>
+<html>
+<head>
+<style>
 body {
-  min-height: 100%;
-  margin: 0;
-  padding: 0;
+  background-image: url('img_girl.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
 }
-.bottomAnim {
-  border: none;
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: #2851A6 url("https://i.sstatic.net/spmUM.gif") left repeat-x;
-  background-size: auto 65%;
-  background-position: bottom;
-  z-index: 1000;
-}
-<div class="bottomAnim"></div>
+</style>
+</head>
+<body>
+
+<h2>Great-Automation done wit tomcat server</h2>
+
+<p></p>
+
+</body>
+</html>
