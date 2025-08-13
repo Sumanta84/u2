@@ -20,7 +20,7 @@ h2 {
 </head>
 <body>
 
-<h2>Great-Automation done with Tomcat server</h2>
+<h2>Great-Automation done Jenkins with Docker-alpine-tomcat server</h2>
 <p></p>
 
 </body>
