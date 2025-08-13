@@ -20,7 +20,8 @@ h2 {
 </head>
 <body>
 
-<h2>Great-Automation done Jenkins with Docker-alpine-tomcat server=final \n Docker done next is Ansible_13.08.2025</h2>
+<h2>Great-Automation done Jenkins with Docker-alpine-tomcat server=final 
+Docker done next is Ansible_13.08.2025</h2>
 <p></p>
 
 </body>
