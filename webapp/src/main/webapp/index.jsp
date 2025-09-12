@@ -8,7 +8,7 @@ body {
   background-attachment: fixed; 
   background-size: cover;
   font-family: Arial, sans-serif;
-  color: white;
+  color: black;
   text-shadow: 1px 1px 3px black;
   margin: 0;
   padding: 0;
@@ -20,8 +20,7 @@ h2 {
 </head>
 <body>
 
-<h2>Great-Automation done Jenkins with Docker-alpine-tomcat server=test10
-Docker done next is Ansible_13.08.2025</h2>
+<h2>Great-Automation done Git->Github->Jenkins->Ansible Controller node->Docker Hub->Docker Container node_Test:2</h2>
 <p></p>
 
 </body>
