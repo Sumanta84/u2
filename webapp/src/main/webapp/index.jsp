@@ -20,7 +20,7 @@ h2 {
 </head>
 <body>
 
-<h2>Great-Automation done Git->Github->Jenkins->Ansible Controller node->Docker Hub->Docker Container node_Test:2</h2>
+<h2>Great-Automation done Git->Github->Jenkins->Ansible Controller node->Docker Hub->Docker Container node_Test:3</h2>
 <p></p>
 
 </body>
